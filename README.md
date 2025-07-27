@@ -2,6 +2,9 @@
 
 A modern, full-stack MERN web application offering AI-powered health consultancy services, including personalized wellness reports, real-time chat with an AI assistant, and beautiful visual experiences.
 
+## 🎥 Project Demo Video
+https://streamable.com/r2o8o1
+
 📸 Screenshots
 🏠 Starting Page
 <img width="1000" alt="Starting Page" src="https://github.com/user-attachments/assets/85dc7f31-2def-431b-8e22-4db03d6f3a98" />
