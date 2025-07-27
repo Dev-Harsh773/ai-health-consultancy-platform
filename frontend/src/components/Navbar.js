@@ -27,7 +27,7 @@ const Navbar = ({ view, setView }) => { // Accept view and setView from Dashboar
             <i className="fas fa-heartbeat"></i>
             {isAuthenticated ? (
               <TextType 
-                text={["TeziCare", ""]}
+                text={["Swasthya Saathi", ""]}
                 typingSpeed={140}
                  // Speed of erasing characters
                 pauseDuration={1500}  // How long to pause before starting to erase
@@ -35,7 +35,7 @@ const Navbar = ({ view, setView }) => { // Accept view and setView from Dashboar
                 className="logo-text"
               />
             ) : (
-              <span className="logo-text">TeziCare</span>
+              <span className="logo-text">Swasthya Saathi</span>
             )}
           </Link>
         </div>
