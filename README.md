@@ -2,6 +2,20 @@
 
 A modern, full-stack MERN web application offering AI-powered health consultancy services, including personalized wellness reports, real-time chat with an AI assistant, and beautiful visual experiences.
 
+📸 Screenshots
+🏠 Starting Page
+<img width="1000" alt="Starting Page" src="https://github.com/user-attachments/assets/85dc7f31-2def-431b-8e22-4db03d6f3a98" />
+📝 Create Account Page
+<img width="1000" alt="Create Account Page" src="https://github.com/user-attachments/assets/c78747e1-98fc-45a2-9130-e7db726e3fd2" />
+🔐 Login Page
+<img width="1000" alt="Login Page" src="https://github.com/user-attachments/assets/5a757603-6fcb-483d-a34b-4111879723a9" />
+📊 Dashboard
+<img width="1000" alt="Dashboard" src="https://github.com/user-attachments/assets/353b9336-88f7-48b1-83bd-a1a276e615d6" />
+📋 Report Page
+<img width="400" alt="Report Page" src="https://github.com/user-attachments/assets/2b786dd3-a08c-476b-82c9-9ce1a9af2e76" />
+💬 AI Chat Interface
+<img width="1000" alt="AI Chat Interface" src="https://github.com/user-attachments/assets/42e34e83-05da-419f-a8d3-cdd1680c8ed2" />
+
 ## 🚀 Overview
 
 This platform empowers users to:
